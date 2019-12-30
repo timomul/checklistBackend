@@ -1,0 +1,27 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "## Description du projet :",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:tpoussard/checklistBackend.git"
+  },
+  "author": "Timothée Poussard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com:tpoussard/checklistBackend/issues"
+  },
+  "homepage": "https://github.com:tpoussard/checklistBackend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
